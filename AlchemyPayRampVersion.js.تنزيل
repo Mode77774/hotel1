@@ -1,0 +1,5 @@
+try {
+    getAlchemyPayRampVersion('1702633336083');
+} catch (err) {
+    // console.log(err);
+}
